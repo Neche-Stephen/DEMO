@@ -23,9 +23,6 @@ body{
 
 }
 
-
-/********** Large devices only **********/
-@media (min-width: 992px) {
   .col-lg-12{
   	width: 100%;
     /*background-color: #EDE7F6;*/
@@ -151,4 +148,3 @@ body{
 
   }
 
-}		
