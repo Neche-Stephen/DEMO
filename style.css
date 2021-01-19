@@ -1,11 +1,10 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  font-family: Roboto, RobotoDraft, Helvetica, Arial;
-}
+
 body{
 	background-color: #EDE7F6;
+	box-sizing: border-box;
+	  margin: 0;
+	  padding: 0;
+	  font-family: Roboto, RobotoDraft, Helvetica, Arial;
 
 }
 .row{
